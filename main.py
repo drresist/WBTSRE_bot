@@ -1,6 +1,4 @@
 import os
-import datetime
-from typing import Optional
 import telebot
 
 BOT_TOKEN = os.getenv("WBTSRE_BOT_TOKEN")
